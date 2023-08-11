@@ -23,8 +23,7 @@ Python 3.x: Make sure you have Python 3.x installed on your system.
 
 Tkinter: Tkinter is the standard GUI library for Python. It is usually included with Python installations, so no separate installation is required.
 
-MySQL Server: You need to have a MySQL server installed and running, and the necessary credentials to access it from the application.
-
+MySQL Server: You need to have a MySQL server installed and running.
 ## License
 
 This project is licensed under the MIT License.
