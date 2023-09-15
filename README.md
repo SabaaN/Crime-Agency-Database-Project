@@ -19,7 +19,7 @@ Integration with MySQL database for robust data storage and retrieval.
 
 
 ## Requirements
-Python 3.x: Make sure you have Python 3.x installed on your system.
+Python 3.8: Make sure you have Python 3.8 installed on your system.
 
 Tkinter: Tkinter is the standard GUI library for Python. It is usually included with Python installations, so no separate installation is required.
 
