@@ -29,7 +29,7 @@ MySQL Server: You need to have a MySQL server installed and running.
 This project is licensed under the MIT License.
 
 
-
+--------------------------------------------------------------------------------------------------------------
 (make sure to edit your host, username and password for the sql connection)
 
 
