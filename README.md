@@ -1,4 +1,4 @@
-# Crime Agency 
+# Crime Agency DBMS
 
 The Crime Agency Database System is a comprehensive DBMS project designed to facilitate the efficient management of criminal records, investigations, and related information for a crime agency. This system utilizes the Python programming language, the Tkinter library for the frontend interface, and MySQL for the backend database management. It is a basic project for understanding SQL and DBMS
 
