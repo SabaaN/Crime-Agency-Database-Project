@@ -221,7 +221,7 @@ class Main:
         self.CriminalTable.heading('8', text='Age');
         self.CriminalTable.heading('9', text='Occupation');
         self.CriminalTable.heading('10', text='Identification Mark');
-        self.CriminalTable.heading('11', text='Crime');
+        self.CriminalTable.heading('11', text='crime');
         self.CriminalTable.heading('12', text='Father Name');
         self.CriminalTable.heading('13', text='Gender');
         self.CriminalTable.heading('14', text='Wanted');
